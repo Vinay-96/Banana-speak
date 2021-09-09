@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+
+:root{
+    --primary-color:#FCD34D;
+    font-family: 'Architects Daughter', cursive;
+    display: block;
+}
+body{
+    margin: 0;
+}
+div{
+    padding: 1rem;
+    align-content: center;
+}
+nav{
+    background-color: var(--primary-color);
+    text-align: center;
+}
+main{
+    width: 500px;
+    margin: auto;
+    padding: 1rem;
+    bottom: 0%;
+}
+textarea{
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: .5rem;
+}
+#outputTxt{
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: .5rem;
+    border: 2px solid black;
+}
+#btnTranslate{
+    background-color: var(--primary-color);
+    font-family: 'Architects Daughter', cursive;
+    border: none;
+    border-radius: 3%;
+    font-size: large;
+    margin: 1rem;
+    padding: 1rem;
+}
+footer{
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    background-color: var(--primary-color);
+    position: fixed;
+}
+
+
