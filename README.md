@@ -1,2 +1,2 @@
 # Banana-speak
- vanillaJS  YT 
+ A fun translation app made using vanillaJS  
